@@ -1,1 +1,3 @@
 # arch-unit-demo
+
+This repository contains the code and accompanying materials used to create a the article on Medium. The content focuses on demonstrating the implementation of architectural tests using the ArchUnit library within a Spring Boot environment. It includes two distinct parts: the first part showcases the creation of architecture tests within a single service, while the second part illustrates the development of an internal library for architectural testing across multiple services. The code emphasizes best practices, modularization, and the utilization of custom rules to ensure consistent architectural standards. Feel free to explore and adapt the code for your own projects.
